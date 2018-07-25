@@ -15,7 +15,7 @@ door
 candle
 dumbbell
 t-shirt
-小闹钟
+clock
 tennis_racquet
 cloud
 snake
@@ -88,7 +88,7 @@ spider
 baseball_bat
 helmet
 flower
-小星星
+star
 car
 eye
 smiley_face
