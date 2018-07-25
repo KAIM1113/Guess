@@ -88,7 +88,7 @@ spider
 baseball_bat
 helmet
 flower
-star
+小星星
 car
 eye
 smiley_face
