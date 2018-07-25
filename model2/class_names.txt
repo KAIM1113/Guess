@@ -19,7 +19,7 @@ fan
 scissors
 cloud
 tent
-clock
+小闹钟
 headphones
 bicycle
 stop_sign
@@ -34,7 +34,7 @@ light_bulb
 shovel
 bird
 syringe
-coffee_cup
+咖啡杯
 moon
 ice_cream
 moustache
