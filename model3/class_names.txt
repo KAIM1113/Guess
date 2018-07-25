@@ -15,7 +15,7 @@ door
 candle
 dumbbell
 t-shirt
-clock
+小闹钟
 tennis_racquet
 cloud
 snake
