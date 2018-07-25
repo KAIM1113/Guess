@@ -145,7 +145,7 @@ async function loadDict() {
     if (mode == 'ar')
         loc = 'model2/class_names_ar.txt'
     else
-        loc = 'model2/class_names.txt'  //gaidongyi
+        loc = 'model3/class_names_zw.txt'  //gaidongyi
     
     await $.ajax({
         url: loc,
@@ -222,7 +222,7 @@ async function start(cur_mode) {
     mode = cur_mode
     
     //load the model 
-    model = await tf.loadModel('model2/model.json')     //gaidonger
+    model = await tf.loadModel('model3/model.json')     //gaidonger
     
     //warm up 
     model.predict(tf.zeros([1, 28, 28, 1]))
