@@ -55,8 +55,8 @@ T恤
 葡萄
 月亮
 钥匙
-umbrella
-bridge
+雨伞
+桥
 ceiling_fan
 table
 sun
